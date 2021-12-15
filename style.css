@@ -1,0 +1,41 @@
+#img{
+    width: 200px;
+    height: 200px;
+}
+#um{
+    
+    display: block;
+    width: 200px;
+    text-align: center;
+    background-color: cyan;
+    color: black;
+}
+#botao{
+    background-color: cyan;
+    color: black;
+    display: block;
+    width: 100px;
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: none;
+    position: absolute;
+    
+  
+}
+#botao:hover{
+    color: white;
+    background-color: black;
+}
+#dois{
+    width: 300px;
+    background-color: wheat;
+    float: left;
+    margin-right: 25px;
+   
+}
+p{
+   color: violet;
+    
+}
+
+
